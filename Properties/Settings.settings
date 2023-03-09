@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="RPxSocket.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="ip" Type="System.String" Scope="User">
+      <Value Profile="(Default)">127.0.01</Value>
+    </Setting>
+    <Setting Name="zpl" Type="System.String" Scope="User">
+      <Value Profile="(Default)">^XA^CF0,30^FO10,10^FD{0}^FS^XZ</Value>
+    </Setting>
+    <Setting Name="data" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Tan Hung Ha</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
